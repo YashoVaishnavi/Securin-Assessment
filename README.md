@@ -46,5 +46,6 @@ Routes:
 ./cves : fetches paginated, sorted data,
 
 ./cves/:id : fetches single CVE by it’s cveId
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/985e13a4-2b26-4465-9a36-9010099d1443/2901e789-a6d8-4969-a267-3497752ce24b/image.png)
 
 
